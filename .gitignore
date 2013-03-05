@@ -2,6 +2,8 @@
 
 data/*
 
+fse2013/data/*/*.pdf
+
 */.svn/entries
 
 */.svn/all-wcprops
