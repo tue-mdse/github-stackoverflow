@@ -2,6 +2,8 @@
 
 data/*
 
+tools/*
+
 *.pdf
 
 */.svn/entries
